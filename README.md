@@ -14,6 +14,8 @@ of an embedded planet. Additionally, if a target gap width is provided by
 the user (optional), then the program returns the parameters of the 
 possible planets that could carve that gap. 
 
+To use the program, first download and unpack the ZIP file (press the green 'Code' button on GitHub, then 'Download ZIP', then unzip the file on your computer). Then simply run planetMassToCarveDebrisGap.py in a terminal.
+
 IMPORTANT: The model assumes that the interaction has finished, i.e. the 
 planet has stopped migrating. If instead migration is still ongoing, then
 the disc gap would widen in time and these results could be invalid (see 
