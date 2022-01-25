@@ -16,15 +16,13 @@ possible planets that could carve that gap.
 
 To use the program, first download and unpack the ZIP file (press the green 'Code' button on GitHub, then 'Download ZIP', then unzip the file on your computer). Then simply run planetMassToCarveDebrisGap.py in a terminal.
 
+The default settings are for HD 107146. To change the parameters, change the values in the 'User Inputs' section of planetMassToCarveDebrisGap.py (you should not have to change anything outside of that section).
+
 IMPORTANT: The model assumes that the interaction has finished, i.e. the 
 planet has stopped migrating. If instead migration is still ongoing, then
 the disc gap would widen in time and these results could be invalid (see 
 Sect. 3.3 in Friebe, Pearce & Lohne 2022 for ways to check and account 
 for this).
-
-To use the program, simply change the values in the 'User Inputs' section.
-You should not have to change anything outside of that section. The 
-default settings are for HD107146.
 
 Feel free to use this code, and if the results go into a publication,
 then please cite Friebe, Pearce & Lohne 2022. Finally, let me know if you
